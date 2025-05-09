@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,c,flutter,py,js,html,css,react,figma" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,c,flutter,py,js,html,css,react,figma,svg" />
   </a>
 </p>
 
